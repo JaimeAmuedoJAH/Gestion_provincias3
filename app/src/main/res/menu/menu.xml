@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_nueva"
+        android:title="@string/item_nueva" />
+    <item
+        android:id="@+id/item_ordenar"
+        android:title="@string/item_ordenar">
+        <menu>
+            <item
+                android:id="@+id/item_com"
+                android:title="@string/item_com" />
+            <item
+                android:id="@+id/item_prov"
+                android:title="@string/item_prov" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item_salir"
+        android:title="@string/item_salir" />
+</menu>

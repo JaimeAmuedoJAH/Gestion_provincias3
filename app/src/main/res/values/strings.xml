@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gestion_provincias3</string>
+    <string name="item_nueva">Nueva</string>
+    <string name="item_ordenar">Ordenar:</string>
+    <string name="item_prov">Por provincia</string>
+    <string name="item_com">Por comunidad</string>
+    <string name="item_salir">Salir</string>
+    <string name="lbl_add">AÑADIR PROVINCIA:</string>
+    <string name="add_hint_nombre">PROVINCIA</string>
+    <string name="add_hint_provincia">PROVINCIA</string>
+    <string name="add_hint_comunidad">COMUNIDAD</string>
+    <string name="add_hint_habitantes">HABITANTES</string>
+    <string name="mtb_title">PROVINCIAS:</string>
+    <string name="dialog_salir_title">SALIENDO DE LA APP</string>
+    <string name="dialog_salir_message">¿Estas seguro que quieres salir de la app?</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Si</string>
+</resources>
